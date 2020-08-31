@@ -36,6 +36,10 @@ https://docs.databricks.com/?_ga=2.112366788.1999755491.1598871417-1771114318.15
 VariantSpark: https://doi.org/10.1093/gigascience/giaa077
 https://github.com/aehrc/VariantSpark
 
+## Hadoop
+Hadoop: The Definitive Guide, 4th Edition
+https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/
+
 ## Jupyter notebooks
 https://jupyter.readthedocs.io/en/latest/content-quickstart.html
 
@@ -95,6 +99,12 @@ https://cs.mcgill.ca/~wlh/files/AAAI19_GRLTutorial.zip
 
 AAAI 2020 Tutorial: Graph Neural Networks: Models and Applications
 http://cse.msu.edu/~mayao4/tutorials/aaai2020/
+
+A Tutorial of Graph Representation
+https://link.springer.com/chapter/10.1007%2F978-3-030-24274-9_33
+
+================================
+# Basic ML and deep learning concepts
 
 Basics of Deep Learning, course by Marc Lelarge:
 https://mlelarge.github.io/dataflowr-web/plutonai.html
