@@ -64,7 +64,7 @@ https://docs.mongodb.com/manual/
 Apache HBase for Hadoop and HDFS:
 http://hbase.apache.org/book.html
 
-# Spark SQL
+## Spark SQL
 https://spark.apache.org/docs/latest/sql-programming-guide.html
 
 ## PostgreSQL
@@ -88,7 +88,7 @@ Deep Graph Library (DGL): Python package for deep learning on graphs
 https://github.com/dmlc/dgl
 
 ================================
-# Machine Learning on Graphs
+# Machine learning on graphs
 
 Representation Learning on Graphs: Methods and Applications
 https://arxiv.org/abs/1709.05584
@@ -133,7 +133,7 @@ Bioinformatics: Genomes and Algorithms:
 https://www.fun-mooc.fr/courses/course-v1:inria+41007+archiveouvert/about
 
 ================================
-# Single-cell data analysis:
+# Single-cell data analysis: tutorials and online courses
 
 Current best practices in single-cell RNA-seq analysis: a tutorial:
 https://www.embopress.org/doi/10.15252/msb.20188746
