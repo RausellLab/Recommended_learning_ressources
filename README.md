@@ -1,6 +1,8 @@
 # Recommended educational ressources
 We start here a non-exhaustive list of frequently recommended ressources and readings in bioinformatics and machine-learning for the lab's new commers. We will be populating it in the next months with regular updates. You may follow us in Twitter for further news: https://twitter.com/AntonioRausell
 
+================================
+# Programming
 ## Python
 How to Think Like a ComputerScientist: Learning with Python 3
 https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf
@@ -36,14 +38,14 @@ Prototyping of SQL queries:
 db-fiddle: https://www.db-fiddle.com/
 pgAdmin developper tools: https://www.pgadmin.org/docs/pgadmin4/development/developer_tools.html
 
-## R-programming
+## R
 R for Statistical Learning - David Lapiaz
 https://daviddalpiaz.github.io/r4sl/
 
 Data Analysis and Prediction Algorithms with R - Rafael A. Irizarry
 https://rafalab.github.io/dsbook/index.html
 
-=============================
+================================
 # Machine Learning and Graphs
 
 Representation Learning on Graphs: Methods and Applications
@@ -73,6 +75,7 @@ https://mlelarge.github.io/dataflowr-web/plutonai.html
 Calculating Gradient Descent Manually
 https://towardsdatascience.com/calculating-gradient-descent-manually-6d9bee09aa0b
 
+================================
 # MOOCs in basic bioinformatics concepts:
 
 MOOC Bioinformatique pour la Génétique Médicale (en français):
