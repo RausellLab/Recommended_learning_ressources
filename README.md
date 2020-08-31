@@ -1,7 +1,10 @@
 # Recommended educational ressources
-We start here a non-exhaustive list of recommended ressources and readings in bioinformatics and machine-learning for the lab's new commers. We will be populating it in the next months with regular updates. You may follow us in Twitter for further news: https://twitter.com/AntonioRausell
+We start here a non-exhaustive list of frequently recommended ressources and readings in bioinformatics and machine-learning for the lab's new commers. We will be populating it in the next months with regular updates. You may follow us in Twitter for further news: https://twitter.com/AntonioRausell
 
 ## Python
+How to Think Like a ComputerScientist: Learning with Python 3
+https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf
+
 Scikit-Learn: Machine-learning in Python
 https://scikit-learn.org/stable/index.html
 
@@ -43,11 +46,17 @@ https://rafalab.github.io/dsbook/index.html
 =============================
 # Machine Learning
 
+Representation Learning on Graphs: Methods and Applications
+https://arxiv.org/abs/1709.05584
+
 Graph representation learning. William L. Hamilton 
 https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf
 
 Basics of Deep Learning, course by Marc Lelarge:
 https://mlelarge.github.io/dataflowr-web/plutonai.html
+
+Calculating Gradient Descent Manually
+https://towardsdatascience.com/calculating-gradient-descent-manually-6d9bee09aa0b
 
 # MOOCs in basic bioinformatics concepts:
 
@@ -56,3 +65,35 @@ https://www.fun-mooc.fr/courses/course-v1:USPC+37028+session01/about
 
 Bioinformatics: Genomes and Algorithms: 
 https://www.fun-mooc.fr/courses/course-v1:inria+41007+archiveouvert/about
+
+================================
+# Single-cell data analysis:
+
+Current best practices in single-cell RNA-seq analysis: a tutorial:
+https://www.embopress.org/doi/10.15252/msb.20188746
+https://github.com/theislab/single-cell-tutorial
+
+Orchestrating Single-Cell Analysis with Bioconductor
+http://osca.bioconductor.org 
+
+Complete course on Single-cell RNA-seq data analysis, Univ Cambridge (2018)
+http://hemberg-lab.github.io/scRNA.seq.course/index.html
+
+Bioinformatics Training channel on YouTube
+http://goo.gl/uaG8ce
+
+Roscoff single-cell transcriptomics & epigenomics workshop 2019 (slides & scripts)
+from our french working group on single-cell data analysis:
+http://goo.gl/m1q1Rs  
+
+A step-by-step workflow for low-level analysis of single-cell RNA-seq data
+https://f1000research.com/articles/5-2122/v2
+
+“All-in-one” environments (I): Seurat R toolkit for single-cell genomics
+https://satijalab.org/seurat/get_started.html
+
+“All-in-one” environments (II):  SCANPY: Scanpy – Single-Cell Analysis in Python
+https://scanpy.readthedocs.io/en/latest/index.html 
+
+Single-Cell Workshop 2014: RNA-seq, Harvard
+http://pklab.med.harvard.edu/scw2014/
