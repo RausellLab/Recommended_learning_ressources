@@ -44,13 +44,28 @@ Data Analysis and Prediction Algorithms with R - Rafael A. Irizarry
 https://rafalab.github.io/dsbook/index.html
 
 =============================
-# Machine Learning
+# Machine Learning and Graphs
 
 Representation Learning on Graphs: Methods and Applications
 https://arxiv.org/abs/1709.05584
 
 Graph representation learning. William L. Hamilton 
 https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf
+
+The graph neural network model:
+https://persagen.com/files/misc/scarselli2009graph.pdf
+
+Modeling Relational Data with Graph Convolutional Networks
+https://arxiv.org/pdf/1703.06103.pdf
+
+Semi-Supervised Classification with Graph Convolutional Networks
+https://arxiv.org/abs/1609.02907
+
+AAAI Tutorial Forum. 2019. Tutorial on Graph Representation Learning. William L. Hamilton and Jian Tang
+https://cs.mcgill.ca/~wlh/files/AAAI19_GRLTutorial.zip
+
+AAAI 2020 Tutorial: Graph Neural Networks: Models and Applications
+http://cse.msu.edu/~mayao4/tutorials/aaai2020/
 
 Basics of Deep Learning, course by Marc Lelarge:
 https://mlelarge.github.io/dataflowr-web/plutonai.html
