@@ -18,3 +18,22 @@ https://towardsdatascience.com/ggplot-grammar-of-graphics-in-python-with-plotnin
 # Spark
 O’Reilly’s new Learning Spark, 2nd Edition 
 https://databricks.com/p/ebook/learning-spark-from-oreilly
+
+# MongoDB
+MongoDB 4.4 Manual
+https://docs.mongodb.com/manual/
+
+# PostgreSQL database
+Prototyping of SQL queries:
+db-fiddle: https://www.db-fiddle.com/
+pgAdmin developper tools: https://www.pgadmin.org/docs/pgadmin4/development/developer_tools.html
+
+=============================
+
+# MOOCs in basic bioinformatics concepts:
+
+MOOC Bioinformatique pour la Génétique Médicale (en français):
+https://www.fun-mooc.fr/courses/course-v1:USPC+37028+session01/about
+
+Bioinformatics: Genomes and Algorithms: 
+https://www.fun-mooc.fr/courses/course-v1:inria+41007+archiveouvert/about
