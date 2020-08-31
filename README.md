@@ -1,5 +1,5 @@
 # Recommended educational ressources
-We start here a non-exhaustive list of frequently recommended ressources and readings in bioinformatics and machine-learning for the lab's new commers. We will be populating it in the next months with regular updates. You may follow us in Twitter for further news: https://twitter.com/AntonioRausell
+We start here a non-exhaustive list of frequently recommended ressources and readings in bioinformatics, data science and machine-learning for the lab's new commers. We will be populating it in the next months with regular updates. You may follow us in Twitter for further news: https://twitter.com/AntonioRausell
 
 ================================
 # ML Programming
@@ -10,6 +10,9 @@ https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf
 
 Scikit-Learn: Machine-learning in Python
 https://scikit-learn.org/stable/index.html
+
+Pytorch:  Python-based scientific computing package
+https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html#sphx-glr-beginner-blitz-tensor-tutorial-py
 
 Tensorflow
 https://github.com/tensorflow/tensorflow
@@ -54,6 +57,18 @@ https://rafalab.github.io/dsbook/index.html
 
 R interface to tensorflow
 https://tensorflow.rstudio.com/
+
+## Open-source libraries for graph neural networks:
+
+Graph Nets: DeepMind's library for building graph networks in Tensorflow and Sonnet.
+https://github.com/deepmind/graph_nets
+https://github.com/rusty1s/pytorch_geometric
+
+PyTorch Geometric: geometric deep learning extension library for PyTorch.
+https://github.com/rusty1s/pytorch_geometric
+
+Deep Graph Library (DGL)
+Python package for deep learning on graphs
 
 ================================
 # Machine Learning and Graphs
