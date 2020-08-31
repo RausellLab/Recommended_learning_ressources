@@ -1,4 +1,4 @@
-# Recommended educational ressources
+# Recommended learning ressources
 We provide here a first non-exhaustive list of frequently recommended learning ressources and readings in bioinformatics, data science and machine-learning for the Rausell lab's newcomers. We will be populating it in the next months with regular updates. You may follow us in Twitter for further news: https://twitter.com/AntonioRausell
 
 ================================
