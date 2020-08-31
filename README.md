@@ -46,7 +46,9 @@ https://docs.mongodb.com/manual/
 ## PostgreSQL
 Prototyping of SQL queries:
 db-fiddle: https://www.db-fiddle.com/
-pgAdmin developper tools: https://www.pgadmin.org/docs/pgadmin4/development/developer_tools.html
+
+pgAdmin developper tools: 
+https://www.pgadmin.org/docs/pgadmin4/development/developer_tools.html
 
 ## R
 R for Statistical Learning - David Lapiaz
