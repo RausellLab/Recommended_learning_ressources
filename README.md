@@ -1,5 +1,5 @@
 # Recommended educational ressources
-We start here a non-exhaustive list of frequently recommended ressources and readings in bioinformatics, data science and machine-learning for the lab's new commers. We will be populating it in the next months with regular updates. You may follow us in Twitter for further news: https://twitter.com/AntonioRausell
+We provide here a first non-exhaustive list of frequently recommended ressources and readings in bioinformatics, data science and machine-learning for the Rausell lab's new commers. We will be populating it in the next months with regular updates. You may follow us in Twitter for further news: https://twitter.com/AntonioRausell
 
 ================================
 # ML Programming
@@ -20,9 +20,6 @@ https://github.com/tensorflow/tensorflow
 ggplot: Grammar of Graphics in Python with Plotnine
 https://towardsdatascience.com/ggplot-grammar-of-graphics-in-python-with-plotnine-2e97edd4dacf
 
-Hail: Python-based data analysis tool with additional data types and methods for working with genomic data
-https://github.com/hail-is/hail
-
 ## Spark
 O’Reilly’s new Learning Spark, 2nd Edition 
 https://databricks.com/p/ebook/learning-spark-from-oreilly
@@ -32,6 +29,9 @@ https://spark.apache.org/docs/latest/ml-guide.html
 
 Databricks
 https://docs.databricks.com/?_ga=2.112366788.1999755491.1598871417-1771114318.1597218746
+
+Hail: Python-based data analysis tool with additional data types and methods for working with genomic data
+https://github.com/hail-is/hail
 
 VariantSpark: https://doi.org/10.1093/gigascience/giaa077
 https://github.com/aehrc/VariantSpark
@@ -43,17 +43,6 @@ https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/
 ## Jupyter notebooks
 https://jupyter.readthedocs.io/en/latest/content-quickstart.html
 
-## MongoDB
-MongoDB 4.4 Manual
-https://docs.mongodb.com/manual/
-
-## PostgreSQL
-Prototyping of SQL queries:
-db-fiddle: https://www.db-fiddle.com/
-
-pgAdmin developper tools: 
-https://www.pgadmin.org/docs/pgadmin4/development/developer_tools.html
-
 ## R
 R for Statistical Learning - David Lapiaz
 https://daviddalpiaz.github.io/r4sl/
@@ -64,6 +53,28 @@ https://rafalab.github.io/dsbook/index.html
 R interface to tensorflow
 https://tensorflow.rstudio.com/
 
+==============================
+# Database management systems for Big Data:
+
+## MongoDB
+MongoDB 4.4 Manual
+https://docs.mongodb.com/manual/
+
+## Hbase
+Apache HBase for Hadoop and HDFS:
+http://hbase.apache.org/book.html
+
+# Spark SQL
+https://spark.apache.org/docs/latest/sql-programming-guide.html
+
+## PostgreSQL
+Prototyping of SQL queries:
+db-fiddle: https://www.db-fiddle.com/
+
+pgAdmin developper tools: 
+https://www.pgadmin.org/docs/pgadmin4/development/developer_tools.html
+
+==============================
 ## Open-source libraries for graph neural networks:
 
 Graph Nets: DeepMind's library for building graph networks in Tensorflow and Sonnet.
@@ -73,11 +84,11 @@ https://github.com/rusty1s/pytorch_geometric
 PyTorch Geometric: geometric deep learning extension library for PyTorch.
 https://github.com/rusty1s/pytorch_geometric
 
-Deep Graph Library (DGL)
-Python package for deep learning on graphs
+Deep Graph Library (DGL): Python package for deep learning on graphs
+https://github.com/dmlc/dgl
 
 ================================
-# Machine Learning and Graphs
+# Machine Learning on Graphs
 
 Representation Learning on Graphs: Methods and Applications
 https://arxiv.org/abs/1709.05584
