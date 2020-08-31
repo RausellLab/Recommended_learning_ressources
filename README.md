@@ -2,13 +2,17 @@
 We start here a non-exhaustive list of frequently recommended ressources and readings in bioinformatics and machine-learning for the lab's new commers. We will be populating it in the next months with regular updates. You may follow us in Twitter for further news: https://twitter.com/AntonioRausell
 
 ================================
-# Programming
+# ML Programming
+
 ## Python
 How to Think Like a ComputerScientist: Learning with Python 3
 https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf
 
 Scikit-Learn: Machine-learning in Python
 https://scikit-learn.org/stable/index.html
+
+Tensorflow
+https://github.com/tensorflow/tensorflow
 
 ggplot: Grammar of Graphics in Python with Plotnine
 https://towardsdatascience.com/ggplot-grammar-of-graphics-in-python-with-plotnine-2e97edd4dacf
@@ -19,6 +23,9 @@ https://github.com/hail-is/hail
 ## Spark
 O’Reilly’s new Learning Spark, 2nd Edition 
 https://databricks.com/p/ebook/learning-spark-from-oreilly
+
+MLlib: Apache Spark's scalable machine learning library. 
+https://spark.apache.org/docs/latest/ml-guide.html
 
 Databricks
 https://docs.databricks.com/?_ga=2.112366788.1999755491.1598871417-1771114318.1597218746
@@ -44,6 +51,9 @@ https://daviddalpiaz.github.io/r4sl/
 
 Data Analysis and Prediction Algorithms with R - Rafael A. Irizarry
 https://rafalab.github.io/dsbook/index.html
+
+R interface to tensorflow
+https://tensorflow.rstudio.com/
 
 ================================
 # Machine Learning and Graphs
