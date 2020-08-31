@@ -1,5 +1,5 @@
 # Recommended educational ressources
-We provide here a first non-exhaustive list of frequently recommended ressources and readings in bioinformatics, data science and machine-learning for the Rausell lab's new commers. We will be populating it in the next months with regular updates. You may follow us in Twitter for further news: https://twitter.com/AntonioRausell
+We provide here a first non-exhaustive list of frequently recommended learning ressources and readings in bioinformatics, data science and machine-learning for the Rausell lab's newcomers. We will be populating it in the next months with regular updates. You may follow us in Twitter for further news: https://twitter.com/AntonioRausell
 
 ================================
 # ML Programming
