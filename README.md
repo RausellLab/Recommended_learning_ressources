@@ -79,7 +79,6 @@ https://www.pgadmin.org/docs/pgadmin4/development/developer_tools.html
 
 Graph Nets: DeepMind's library for building graph networks in Tensorflow and Sonnet.
 https://github.com/deepmind/graph_nets
-https://github.com/rusty1s/pytorch_geometric
 
 PyTorch Geometric: geometric deep learning extension library for PyTorch.
 https://github.com/rusty1s/pytorch_geometric
