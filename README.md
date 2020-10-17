@@ -36,6 +36,9 @@ https://github.com/hail-is/hail
 VariantSpark: https://doi.org/10.1093/gigascience/giaa077
 https://github.com/aehrc/VariantSpark
 
+Glow: an open-source toolkit natively built on Apache Spark for working with genomic data at biobank-scale.
+https://glow.readthedocs.io/en/latest/
+
 ## Hadoop
 Hadoop: The Definitive Guide, 4th Edition
 https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/
@@ -52,6 +55,14 @@ https://rafalab.github.io/dsbook/index.html
 
 R interface to tensorflow
 https://tensorflow.rstudio.com/
+
+==============================
+## Managing conda environments
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html
+
+Installing Anaconda and managing environments in a server for multiple users:
+https://medium.com/@pjptech/installing-anaconda-for-multiple-users-650b2a6666c6
 
 ==============================
 # Database management systems for Big Data:
