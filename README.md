@@ -20,6 +20,9 @@ https://github.com/tensorflow/tensorflow
 ggplot: Grammar of Graphics in Python with Plotnine
 https://towardsdatascience.com/ggplot-grammar-of-graphics-in-python-with-plotnine-2e97edd4dacf
 
+TensorSensor: library to visualize Python code indicating the shape of tensor variables (works with Tensorflow, PyTorch, Numpy, Keras and fastai)
+https://explained.ai/tensor-sensor/index.html
+
 ## Spark
 O’Reilly’s new Learning Spark, 2nd Edition 
 https://databricks.com/p/ebook/learning-spark-from-oreilly
@@ -70,6 +73,13 @@ https://medium.com/@pjptech/installing-anaconda-for-multiple-users-650b2a6666c6
 ## MongoDB
 MongoDB 4.4 Manual
 https://docs.mongodb.com/manual/
+
+Graphing data from MongoDB: how to connect to a MongoDB instance from a Jupyter notebook and make plots with python.
+https://towardsdatascience.com/graphing-data-from-mongodb-99c3722650da
+
+MongoDB - Spark connector
+https://www.mongodb.com/products/spark-connector
+https://github.com/mongodb/mongo-spark
 
 ## Hbase
 Apache HBase for Hadoop and HDFS:
@@ -123,6 +133,9 @@ http://cse.msu.edu/~mayao4/tutorials/aaai2020/
 
 A Tutorial of Graph Representation
 https://link.springer.com/chapter/10.1007%2F978-3-030-24274-9_33
+
+Directional Graph Networks
+https://arxiv.org/abs/2010.02863
 
 ================================
 # Basic ML and deep learning concepts
