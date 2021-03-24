@@ -116,6 +116,9 @@ https://arxiv.org/abs/1709.05584
 Graph representation learning. William L. Hamilton 
 https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf
 
+Thomas Kipf's PhD thesis "Deep Learning with Graph-Structured Representations"
+https://hdl.handle.net/11245.1/1b63b965-24c4-4bcd-aabb-b849056fa76d
+
 The graph neural network model:
 https://persagen.com/files/misc/scarselli2009graph.pdf
 
@@ -142,6 +145,9 @@ https://arxiv.org/abs/2010.02863
 
 Basics of Deep Learning, course by Marc Lelarge:
 https://mlelarge.github.io/dataflowr-web/plutonai.html
+
+Lectures for UC Berkeley CS 182: Deep Learning.
+https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A
 
 Calculating Gradient Descent Manually
 https://towardsdatascience.com/calculating-gradient-descent-manually-6d9bee09aa0b
