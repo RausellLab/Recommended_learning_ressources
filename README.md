@@ -119,6 +119,9 @@ https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf
 Thomas Kipf's PhD thesis "Deep Learning with Graph-Structured Representations"
 https://hdl.handle.net/11245.1/1b63b965-24c4-4bcd-aabb-b849056fa76d
 
+Machine Learning for Graphs and Sequential Data (Prof. Günnemann, TUM)
+https://www.in.tum.de/daml/teaching/mlgs/
+
 The graph neural network model:
 https://persagen.com/files/misc/scarselli2009graph.pdf
 
