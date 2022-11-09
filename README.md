@@ -143,6 +143,12 @@ https://link.springer.com/chapter/10.1007%2F978-3-030-24274-9_33
 Directional Graph Networks
 https://arxiv.org/abs/2010.02863
 
+Graph representation learning in biomedicine and healthcare
+https://pubmed.ncbi.nlm.nih.gov/36316368/
+
+Machine Learning on Graphs: A Model and Comprehensive Taxonomy
+https://arxiv.org/abs/2005.03675
+
 ================================
 # Basic ML and deep learning concepts
 
